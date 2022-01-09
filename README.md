@@ -1,0 +1,2 @@
+# NSPAI
+SOFTWARE BETA PARA GNU/GPL, CC Ya adquiridos
